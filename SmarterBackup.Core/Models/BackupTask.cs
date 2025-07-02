@@ -13,7 +13,7 @@ namespace SmarterBackup.Core.Models
         public string DestinationPath { get; set; } = string.Empty;
         public bool UseEncription { set; get; }= true;
         public string EncryptionPassword { get; set; }
-        public string? ScheduleCron { get; set; }// هر شب ساعت 12   
+        public string? ScheduleCorn { get; set; }// هر شب ساعت 12   
         public int? IntervalMinutes { get; set; }// مثلا 60 برای یک ساعت
 
     }

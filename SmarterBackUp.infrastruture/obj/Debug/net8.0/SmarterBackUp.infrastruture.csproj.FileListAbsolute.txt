@@ -13,3 +13,4 @@ D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debu
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debug\net8.0\refint\SmarterBackUp.infrastruture.dll
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debug\net8.0\SmarterBackUp.infrastruture.pdb
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debug\net8.0\ref\SmarterBackUp.infrastruture.dll
+D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debug\net8.0\SmarterBackUp.infrastruture.sourcelink.json

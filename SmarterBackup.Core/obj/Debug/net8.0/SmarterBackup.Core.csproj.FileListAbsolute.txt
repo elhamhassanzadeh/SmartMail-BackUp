@@ -9,3 +9,4 @@ D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Core\obj\Debug\net8.0\
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Core\obj\Debug\net8.0\refint\SmarterBackup.Core.dll
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Core\obj\Debug\net8.0\SmarterBackup.Core.pdb
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Core\obj\Debug\net8.0\ref\SmarterBackup.Core.dll
+D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Core\obj\Debug\net8.0\SmarterBackup.Core.sourcelink.json

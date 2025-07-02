@@ -38,25 +38,26 @@ var logger = host.Services.GetRequiredService<ILoggerService>();
 var crypto = host.Services.GetRequiredService<ICryptoService>();
 
 // ⬇️ اجرای بکاپ دستی
-foreach (var task in appSettings.BackupTasks)
-{
-    Console.WriteLine($"Running Execution Backup: {task.Name}");
-    var result = await backupService.RunBackupAsync(task);
+//foreach (var task in appSettings.BackupTasks)
+//{
+//    Console.WriteLine($"Running Execution Backup: {task.Name}");
+//    var result = await backupService.RunBackupAsync(task);
 
-    if (result.Success)
-        Console.WriteLine("✅ Success");
-    else
-        Console.WriteLine($"❌ Error: {result.ErrorMessage}");
-}
+//    if (result.Success)
+//        Console.WriteLine("✅ Success");
+//    else
+//        Console.WriteLine($"❌ Error: {result.ErrorMessage}");
+//}
 
 // ⬇️ راه‌اندازی زمان‌بندی
 var scheduler = new BackupScheduler(backupService, logger);
 var cts = new CancellationTokenSource();
 Console.WriteLine("🟢 Scheduled Execution In Backup ... (Ctrl+C برای خروج)");
 
+
 // برای تست، فعلاً زمان‌بندی رو غیر فعال کن
-// scheduler.Start(appSettings.BackupTasks, cts.Token);
-// await Task.Delay(Timeout.Infinite, cts.Token);
+ scheduler.Start(appSettings.BackupTasks, cts.Token);
+ await Task.Delay(Timeout.Infinite, cts.Token);
 
 // ⬇️ تست ریستور
 Console.WriteLine("🔄 Do you want to restore backup (y/n)");

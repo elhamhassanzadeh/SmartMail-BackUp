@@ -19,7 +19,7 @@ namespace SmarterBackUp.infrastruture.SmarterBackup.Services
         {
             // بررسی رمز
             if (string.IsNullOrWhiteSpace(password))
-                throw new ArgumentException("رمز عبور نباید خالی باشد.", nameof(password));
+                throw new ArgumentException("Not Empty Password.", nameof(password));
 
             // ساخت نام فایل zip موقت در Temp
             var tempZip = Path.Combine(Path.GetTempPath(), Path.GetRandomFileName() + ".zip");
@@ -55,7 +55,7 @@ namespace SmarterBackUp.infrastruture.SmarterBackup.Services
                     }
                     catch (Exception ex)
                     {
-                        Console.WriteLine($"⚠️ نمی‌توان فایل موقت را حذف کرد: {ex.Message}");
+                        Console.WriteLine($"⚠️ it cannot remove TempFile: {ex.Message}");
                     }
                 }
             }
