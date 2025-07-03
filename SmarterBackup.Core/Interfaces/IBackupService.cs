@@ -10,5 +10,6 @@ namespace SmarterBackup.Core.Interfaces
     public interface IBackupService
     {
         Task<BackupResult> RunBackupAsync(BackupTask tasks);
+        Task RestoreAsync(string zipPath, string destinationPath, string password, bool isEncrypted);
     }
 }

@@ -11,8 +11,8 @@ namespace SmarterBackup.Core.Models
         public string Name { get; set; } = string.Empty;
         public string SourcePath { get; set; }= string.Empty;
         public string DestinationPath { get; set; } = string.Empty;
-        public bool UseEncription { set; get; }= true;
-        public string EncryptionPassword { get; set; }
+        public bool UseEncryption { set; get; }
+        public string? EncryptionPassword { get; set; }
         public string? ScheduleCorn { get; set; }// هر شب ساعت 12   
         public int? IntervalMinutes { get; set; }// مثلا 60 برای یک ساعت
 

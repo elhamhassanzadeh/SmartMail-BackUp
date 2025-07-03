@@ -30,17 +30,6 @@ namespace SmarterBackup.Presentation.configuration
             }
         }
 
-        //private async Task RunTaskAsync(BackupTask task, CancellationToken cancellationToken)
-        //{
-        //    while (!cancellationToken.IsCancellationRequested)
-        //    {
-        //        _logger.Log($"⏰ اجرای برنامه‌ریزی شده: {task.Name}");
-
-        //        await _backupService.RunBackupAsync(task);
-
-        //        await Task.Delay(TimeSpan.FromMinutes(task.IntervalMinutes!.Value), cancellationToken);
-        //    }
-        //}
         private async Task RunTaskAsync(BackupTask task, CancellationToken cancellationToken)
         {
             while (!cancellationToken.IsCancellationRequested)
@@ -48,15 +37,21 @@ namespace SmarterBackup.Presentation.configuration
                 var now = DateTime.Now;
                 var nextRun = now.AddMinutes(task.IntervalMinutes!.Value);
 
-                _logger.Log($"⏰ Schedule Execution: {task.Name} in {now}");
-                Console.WriteLine($"🔁 Execution '{task.Name}' in {now}, next execution in {nextRun}");
+                _logger.Log($"⏰ Schedule Execution: {task.Name} at {now}");
+                Console.WriteLine($"🔁 Scheduled Backup: {task.Name} at {now}, next run at {nextRun}");
 
-                await _backupService.RunBackupAsync(task);
+                var result = await _backupService.RunBackupAsync(task);
 
-                _logger.Log($"📅 next execution '{task.Name}' in {nextRun}");
+                if (result.Success)
+                    Console.WriteLine("✅ Backup completed successfully.");
+                else
+                    Console.WriteLine($"❌ Backup failed: {result.ErrorMessage}");
+
+                _logger.Log($"📅 Next scheduled run for '{task.Name}' at {nextRun}");
+
                 await Task.Delay(TimeSpan.FromMinutes(task.IntervalMinutes!.Value), cancellationToken);
             }
         }
-
     }
+
 }
