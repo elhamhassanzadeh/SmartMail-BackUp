@@ -1,36 +1,38 @@
 ﻿using SmarterBackup.Core.Interfaces;
 using SmarterBackup.Core.Models;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.IO;
 
 namespace SmarterBackUp.infrastruture.SmarterBackup.Services
 {
+    
     public class LoggerService : ILoggerService
     {
+        private readonly string _logDirectory;
+        private readonly string _logFilePath;
 
-        private readonly string logFilePath = "backup-log.txt";
+        public LoggerService()
+        {
+            _logDirectory = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Logs");
+            _logFilePath = Path.Combine(_logDirectory, "backup.log");
+
+            if (!Directory.Exists(_logDirectory))
+                Directory.CreateDirectory(_logDirectory);
+        }
 
         public void Log(string message)
         {
-            File.AppendAllText(logFilePath, $"{DateTime.Now}: {message}{Environment.NewLine}");
+            string timestamp = $"[{DateTime.Now:yyyy-MM-dd HH:mm:ss}]";
+            File.AppendAllText(_logFilePath, $"{timestamp} {message}{Environment.NewLine}");
         }
+    
 
-        public void LogResult(BackupResult result)
-        {
-            var msg = $"[{result.StartTime}] {result.TaskName} → Success: {result.Success}";
-            if (!result.Success && !string.IsNullOrEmpty(result.ErrorMessage))
-                msg += $" → Error: {result.ErrorMessage}";
-
-            Log(msg);
-        }
 
         public void LogReult(BackupResult results)
         {
-            
-            //throw new NotImplementedException();
+            throw new NotImplementedException();
         }
     }
+
+
 }

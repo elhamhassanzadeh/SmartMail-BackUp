@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarterBackup.Core", "Smart
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarterBackUp.infrastruture", "SmarterBackUp.infrastruture\SmarterBackUp.infrastruture.csproj", "{2CB84592-512C-43F9-B51D-E89F84AB139B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmarterBackup.UI", "SmarterBackup.UI\SmarterBackup.UI.csproj", "{009CE5F6-4E48-458A-BC78-B532EBE2907D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2CB84592-512C-43F9-B51D-E89F84AB139B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CB84592-512C-43F9-B51D-E89F84AB139B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CB84592-512C-43F9-B51D-E89F84AB139B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{009CE5F6-4E48-458A-BC78-B532EBE2907D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009CE5F6-4E48-458A-BC78-B532EBE2907D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009CE5F6-4E48-458A-BC78-B532EBE2907D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009CE5F6-4E48-458A-BC78-B532EBE2907D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

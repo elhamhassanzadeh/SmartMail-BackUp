@@ -395,3 +395,27 @@
 12/04/1404 12:11:28 ب.ظ: 📁 Source: C:\Test\Source
 12/04/1404 12:11:28 ب.ظ: 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040412_121128.zip
 12/04/1404 12:11:31 ب.ظ: 📅 Next scheduled run for 'ScheduledTest' at 12/04/1404 12:12:28 ب.ظ
+13/04/1404 02:17:15 ب.ظ: ⏰ Schedule Execution: ScheduledTest at 13/04/1404 02:17:15 ب.ظ
+13/04/1404 02:17:15 ب.ظ: 📁 Source: C:\Test\Source
+13/04/1404 02:17:15 ب.ظ: 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040413_141715.zip
+13/04/1404 02:17:20 ب.ظ: 📅 Next scheduled run for 'ScheduledTest' at 13/04/1404 02:18:15 ب.ظ
+13/04/1404 02:18:20 ب.ظ: ⏰ Schedule Execution: ScheduledTest at 13/04/1404 02:18:20 ب.ظ
+13/04/1404 02:18:20 ب.ظ: 📁 Source: C:\Test\Source
+13/04/1404 02:18:20 ب.ظ: 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040413_141820.zip06:41 ب.ظ ‎13/‎04/‎1404
+13/04/1404 02:18:23 ب.ظ: 📅 Next scheduled run for 'ScheduledTest' at 13/04/1404 02:19:20 ب.ظ
+13/04/1404 02:19:47 ب.ظ: ⏰ Schedule Execution: ScheduledTest at 13/04/1404 02:19:47 ب.ظ
+13/04/1404 02:19:47 ب.ظ: 📁 Source: C:\Test\Source
+13/04/1404 02:19:47 ب.ظ: 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040413_141947.enc.zip
+13/04/1404 02:19:50 ب.ظ: 📅 Next scheduled run for 'ScheduledTest' at 13/04/1404 02:20:47 ب.ظ
+13/04/1404 02:20:50 ب.ظ: ⏰ Schedule Execution: ScheduledTest at 13/04/1404 02:20:50 ب.ظ
+13/04/1404 02:20:50 ب.ظ: 📁 Source: C:\Test\Source
+13/04/1404 02:20:50 ب.ظ: 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040413_142050.enc.zip
+13/04/1404 02:20:52 ب.ظ: 📅 Next scheduled run for 'ScheduledTest' at 13/04/1404 02:21:50 ب.ظ
+13/04/1404 02:21:52 ب.ظ: ⏰ Schedule Execution: ScheduledTest at 13/04/1404 02:21:52 ب.ظ
+13/04/1404 02:21:52 ب.ظ: 📁 Source: C:\Test\Source
+13/04/1404 02:21:52 ب.ظ: 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040413_142152.enc.zip
+13/04/1404 02:21:55 ب.ظ: 📅 Next scheduled run for 'ScheduledTest' at 13/04/1404 02:22:52 ب.ظ
+13/04/1404 02:28:17 ب.ظ: ⏰ Schedule Execution: ScheduledTest at 13/04/1404 02:28:17 ب.ظ
+13/04/1404 02:28:17 ب.ظ: 📁 Source: C:\Test\Source
+13/04/1404 02:28:17 ب.ظ: 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040413_142817.zip
+13/04/1404 02:28:20 ب.ظ: 📅 Next scheduled run for 'ScheduledTest' at 13/04/1404 02:29:17 ب.ظ

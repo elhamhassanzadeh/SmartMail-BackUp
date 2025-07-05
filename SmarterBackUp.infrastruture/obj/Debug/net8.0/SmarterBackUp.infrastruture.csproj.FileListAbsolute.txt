@@ -8,9 +8,9 @@ D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debu
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debug\net8.0\SmarterBackUp.infrastruture.AssemblyInfoInputs.cache
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debug\net8.0\SmarterBackUp.infrastruture.AssemblyInfo.cs
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debug\net8.0\SmarterBackUp.infrastruture.csproj.CoreCompileInputs.cache
+D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debug\net8.0\SmarterBackUp.infrastruture.sourcelink.json
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debug\net8.0\SmarterB.210C4B39.Up2Date
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debug\net8.0\SmarterBackUp.infrastruture.dll
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debug\net8.0\refint\SmarterBackUp.infrastruture.dll
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debug\net8.0\SmarterBackUp.infrastruture.pdb
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debug\net8.0\ref\SmarterBackUp.infrastruture.dll
-D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\obj\Debug\net8.0\SmarterBackUp.infrastruture.sourcelink.json

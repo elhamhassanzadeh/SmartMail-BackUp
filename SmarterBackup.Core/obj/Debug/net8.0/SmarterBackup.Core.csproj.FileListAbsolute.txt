@@ -5,8 +5,8 @@ D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Core\obj\Debug\net8.0\
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Core\obj\Debug\net8.0\SmarterBackup.Core.AssemblyInfoInputs.cache
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Core\obj\Debug\net8.0\SmarterBackup.Core.AssemblyInfo.cs
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Core\obj\Debug\net8.0\SmarterBackup.Core.csproj.CoreCompileInputs.cache
+D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Core\obj\Debug\net8.0\SmarterBackup.Core.sourcelink.json
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Core\obj\Debug\net8.0\SmarterBackup.Core.dll
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Core\obj\Debug\net8.0\refint\SmarterBackup.Core.dll
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Core\obj\Debug\net8.0\SmarterBackup.Core.pdb
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Core\obj\Debug\net8.0\ref\SmarterBackup.Core.dll
-D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Core\obj\Debug\net8.0\SmarterBackup.Core.sourcelink.json
