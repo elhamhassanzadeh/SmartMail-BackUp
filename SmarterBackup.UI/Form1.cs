@@ -64,7 +64,7 @@ namespace SmarterBackup.UI
             numInterval.ValueChanged += (s, e) => SaveUserConfig();
 
             btnSaveEmailSettings.Click += BtnSaveEmailSettings_Click;
-            
+
             btnTestEmail.Click += BtnTestEmail_Click;
         }
 
@@ -399,11 +399,3 @@ namespace SmarterBackup.UI
 
     }
 }
-
-
-
-
-
-
-
-

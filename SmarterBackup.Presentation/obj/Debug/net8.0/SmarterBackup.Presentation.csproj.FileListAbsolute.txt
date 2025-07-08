@@ -1,4 +1,3 @@
-D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Presentation\bin\Debug\net8.0\appsettings.json
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Presentation\bin\Debug\net8.0\SmarterBackup.Presentation.exe
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Presentation\bin\Debug\net8.0\SmarterBackup.Presentation.deps.json
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.Presentation\bin\Debug\net8.0\SmarterBackup.Presentation.runtimeconfig.json

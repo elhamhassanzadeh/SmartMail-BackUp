@@ -17,14 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{009CE5F6-4E48-458A-BC78-B532EBE2907D}|SmarterBackup.UI\\SmarterBackup.UI.csproj|d:\\c#-training\\advancedcsharp\\smarterbackup\\smarterbackup.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{009CE5F6-4E48-458A-BC78-B532EBE2907D}|SmarterBackup.UI\\SmarterBackup.UI.csproj|solutionrelative:smarterbackup.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7859202D-9C20-4345-ADB8-439BD9365CFC}|SmarterBackup.Core\\SmarterBackup.Core.csproj|d:\\c#-training\\advancedcsharp\\smarterbackup\\smarterbackup.core\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7859202D-9C20-4345-ADB8-439BD9365CFC}|SmarterBackup.Core\\SmarterBackup.Core.csproj|solutionrelative:smarterbackup.core\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{009CE5F6-4E48-458A-BC78-B532EBE2907D}|SmarterBackup.UI\\SmarterBackup.UI.csproj|D:\\c#-Training\\AdvancedCsharp\\SmarterBackup\\smarterbackup.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{009CE5F6-4E48-458A-BC78-B532EBE2907D}|SmarterBackup.UI\\SmarterBackup.UI.csproj|solutionrelative:smarterbackup.ui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,33 +26,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmailSettings.cs",
-              "DocumentMoniker": "D:\\c#-Training\\AdvancedCsharp\\SmarterBackup\\SmarterBackup.Core\\Models\\EmailSettings.cs",
-              "RelativeDocumentMoniker": "SmarterBackup.Core\\Models\\EmailSettings.cs",
-              "ToolTip": "D:\\c#-Training\\AdvancedCsharp\\SmarterBackup\\SmarterBackup.Core\\Models\\EmailSettings.cs",
-              "RelativeToolTip": "SmarterBackup.Core\\Models\\EmailSettings.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T10:38:34.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "userconfig.json",
-              "DocumentMoniker": "D:\\c#-Training\\AdvancedCsharp\\SmarterBackup\\SmarterBackup.UI\\bin\\Debug\\net8.0-windows\\userconfig.json",
-              "RelativeDocumentMoniker": "SmarterBackup.UI\\bin\\Debug\\net8.0-windows\\userconfig.json",
-              "ToolTip": "D:\\c#-Training\\AdvancedCsharp\\SmarterBackup\\SmarterBackup.UI\\bin\\Debug\\net8.0-windows\\userconfig.json",
-              "RelativeToolTip": "SmarterBackup.UI\\bin\\Debug\\net8.0-windows\\userconfig.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-05T08:52:15.491Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -69,21 +36,10 @@
               "RelativeDocumentMoniker": "SmarterBackup.UI\\Form1.Designer.cs",
               "ToolTip": "D:\\c#-Training\\AdvancedCsharp\\SmarterBackup\\SmarterBackup.UI\\Form1.Designer.cs",
               "RelativeToolTip": "SmarterBackup.UI\\Form1.Designer.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAEEAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAANYAAAAAAAAAAAAcwOMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T07:38:59.694Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserConfig.cs",
-              "DocumentMoniker": "D:\\c#-Training\\AdvancedCsharp\\SmarterBackup\\SmarterBackup.UI\\Models\\UserConfig.cs",
-              "RelativeDocumentMoniker": "SmarterBackup.UI\\Models\\UserConfig.cs",
-              "ToolTip": "D:\\c#-Training\\AdvancedCsharp\\SmarterBackup\\SmarterBackup.UI\\Models\\UserConfig.cs",
-              "RelativeToolTip": "SmarterBackup.UI\\Models\\UserConfig.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBEAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T07:28:51.075Z"
+              "WhenOpened": "2025-07-06T02:18:22.353Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -93,21 +49,35 @@
               "RelativeDocumentMoniker": "SmarterBackup.UI\\Form1.cs",
               "ToolTip": "D:\\c#-Training\\AdvancedCsharp\\SmarterBackup\\SmarterBackup.UI\\Form1.cs",
               "RelativeToolTip": "SmarterBackup.UI\\Form1.cs",
-              "ViewState": "AgIAAI8AAAAAAAAAAAAAAFIBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIABAAAAAAAAAAAcwIUBAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T06:19:52.973Z",
+              "WhenOpened": "2025-07-05T20:51:22.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "userconfig.json",
+              "DocumentMoniker": "D:\\c#-Training\\AdvancedCsharp\\SmarterBackup\\SmarterBackup.UI\\bin\\Debug\\net8.0-windows\\userconfig.json",
+              "RelativeDocumentMoniker": "SmarterBackup.UI\\bin\\Debug\\net8.0-windows\\userconfig.json",
+              "ToolTip": "D:\\c#-Training\\AdvancedCsharp\\SmarterBackup\\SmarterBackup.UI\\bin\\Debug\\net8.0-windows\\userconfig.json",
+              "RelativeToolTip": "SmarterBackup.UI\\bin\\Debug\\net8.0-windows\\userconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T20:40:19.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\c#-Training\\AdvancedCsharp\\SmarterBackup\\SmarterBackup.UI\\Form1.cs",
-              "RelativeDocumentMoniker": "SmarterBackup.UI\\Form1.cs",
-              "ToolTip": "D:\\c#-Training\\AdvancedCsharp\\SmarterBackup\\SmarterBackup.UI\\Form1.cs [Design]",
-              "RelativeToolTip": "SmarterBackup.UI\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "D:\\c#-Training\\AdvancedCsharp\\SmarterBackup\\SmarterBackup.UI\\Models\\UserConfig.cs",
+              "RelativeDocumentMoniker": "SmarterBackup.UI\\Models\\UserConfig.cs",
+              "ToolTip": "D:\\c#-Training\\AdvancedCsharp\\SmarterBackup\\SmarterBackup.UI\\Models\\UserConfig.cs",
+              "RelativeToolTip": "SmarterBackup.UI\\Models\\UserConfig.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwA4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T16:25:41.459Z"
+              "WhenOpened": "2025-07-05T20:06:44.323Z",
+              "EditorCaption": ""
             }
           ]
         }

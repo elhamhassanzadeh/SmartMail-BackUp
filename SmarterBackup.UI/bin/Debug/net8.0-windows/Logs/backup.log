@@ -1,0 +1,880 @@
+1404-04-13 18:46:07 - Loaded scheduled task: ScheduledTest
+1404-04-13 18:46:07 - ✅ Scheduled backup timer started
+06:55 ب.ظ ‎13/‎04/‎140406:55 ب.ظ ‎13/‎04/‎140406:55 ب.ظ ‎13/‎04/‎140406:55 ب.ظ
+ ‎13/‎04/‎140406:55 ب.ظ ‎13/‎04/‎140406:55 ب.ظ ‎13/‎04/‎140406:55 ب.ظ ‎13/‎04/‎140406:55 ب.ظ ‎13/‎04/‎140406:55 ب.ظ ‎13/‎04/‎1404
+1404-04-13 19:03:19 - Loaded scheduled task: ScheduledTest
+1404-04-13 19:03:19 - ✅ Scheduled backup timer started
+1404-04-13 19:04:19 - 📁 Source: C:\Test\Source
+1404-04-13 19:04:19 - 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040413_190419.enc.zip
+1404-04-13 19:05:27 - Loaded scheduled task: ScheduledTest
+1404-04-13 19:05:27 - ✅ Scheduled backup timer started
+1404-04-13 19:06:27 - 📁 Source: C:\Test\Source
+1404-04-13 19:06:27 - 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040413_190627.enc.zip
+1404-04-13 19:14:01 - Loaded scheduled task: ScheduledTest
+1404-04-13 19:14:01 - ✅ Scheduled backup timer started
+1404-04-13 19:15:01 - 📁 Source: C:\Test\Source
+1404-04-13 19:15:01 - 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040413_191501.enc.zip
+1404-04-13 19:16:01 - 📁 Source: C:\Test\Source
+1404-04-13 19:16:01 - 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040413_191601.enc.zip
+[1404-04-13 19:17:20] Loaded scheduled task: ScheduledTest
+[1404-04-13 19:17:20] ✅ Scheduled backup timer started
+[1404-04-13 19:18:20] 📁 Source: C:\Test\Source
+[1404-04-13 19:18:20] 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040413_191820.enc.zip
+[1404-04-13 19:19:20] 📁 Source: C:\Test\Source
+[1404-04-13 19:19:20] 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040413_191920.enc.zip
+[1404-04-13 19:20:20] 📁 Source: C:\Test\Source
+[1404-04-13 19:20:20] 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040413_192020.enc.zip
+[1404-04-13 19:29:57] Loaded scheduled task: ScheduledTest
+[1404-04-13 19:29:57] ✅ Scheduled backup timer started
+[1404-04-13 19:31:07] Loaded scheduled task: 
+[1404-04-13 19:31:35] Loaded scheduled task: ScheduledTest
+[1404-04-13 19:31:35] ✅ Scheduled backup timer started
+[1404-04-13 19:46:10] Loaded scheduled task: ScheduledTest
+[1404-04-13 19:46:10] ✅ Scheduled backup timer started
+[1404-04-13 19:55:50] Loaded scheduled task: ScheduledTest
+[1404-04-13 19:55:50] ✅ Scheduled backup timer started
+[1404-04-14 09:50:36] Loaded scheduled task: ScheduledTest
+[1404-04-14 10:22:38] Loaded scheduled task: ScheduledTest
+[1404-04-14 10:31:04] Loaded scheduled task: ScheduledTest
+[1404-04-14 10:31:04] ✅ Scheduled backup timer started
+[1404-04-14 10:31:41] 📁 Source: C:\Test\Source
+[1404-04-14 10:31:41] 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040414_103141.enc.zip
+[1404-04-14 10:32:04] 📁 Source: C:\Test\Source
+[1404-04-14 10:32:04] 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040414_103204.enc.zip
+[1404-04-14 10:40:35] Loaded scheduled task: ScheduledTest
+[1404-04-14 10:40:35] ✅ Scheduled backup timer started
+[1404-04-14 10:40:59] Loaded scheduled task: ScheduledTest
+[1404-04-14 10:40:59] ✅ Scheduled backup timer started
+[1404-04-14 10:41:02] 📁 Source: C:\Test\Source
+[1404-04-14 10:41:02] 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040414_104102.zip
+[1404-04-14 10:41:59] 📁 Source: C:\Test\Source
+[1404-04-14 10:41:59] 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040414_104159.zip
+[1404-04-14 10:44:26] Loaded scheduled task: ScheduledTest
+[1404-04-14 10:44:26] ✅ Scheduled backup timer started
+[1404-04-14 11:18:03] Loaded scheduled task: ScheduledTest
+[1404-04-14 11:18:03] ✅ Scheduled backup timer started
+[1404-04-14 11:27:27] Loaded scheduled task: ScheduledTest
+[1404-04-14 11:27:27] ✅ Scheduled backup timer started
+[1404-04-14 11:36:49] Loaded scheduled task: ScheduledTest
+[1404-04-14 11:36:49] ✅ Scheduled backup timer started
+[1404-04-14 11:42:13] Loaded scheduled task: ScheduledTest
+[1404-04-14 11:42:13] ✅ Scheduled backup timer started
+[1404-04-14 11:56:07] 📅 Loaded scheduled task: ScheduledTest
+[1404-04-14 11:56:07] ✅ Scheduled backup timer started.
+[1404-04-14 11:57:07] 🕒 Scheduled backup triggered.
+[1404-04-14 11:57:07] 📁 Source: C:\Test\Source
+[1404-04-14 11:57:07] 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040414_115707.zip
+[1404-04-14 11:57:13] ✅ Scheduled backup completed successfully.
+[1404-04-14 12:07:59] 📅 Loaded scheduled task: ScheduledTest
+[1404-04-14 12:07:59] ✅ Scheduled backup timer started.
+[1404-04-14 12:08:37] 📁 Source: C:\Test\Source
+[1404-04-14 12:08:37] 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040414_120837.zip
+[1404-04-14 12:08:59] 🕒 Scheduled backup triggered.
+[1404-04-14 12:08:59] 📁 Source: C:\Test\Source
+[1404-04-14 12:08:59] 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040414_120859.zip
+[1404-04-14 12:09:01] ✅ Scheduled backup completed successfully.
+[1404-04-14 12:09:59] 🕒 Scheduled backup triggered.
+[1404-04-14 12:09:59] 📁 Source: C:\Test\Source
+[1404-04-14 12:09:59] 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040414_120959.zip
+[1404-04-14 12:10:01] ✅ Scheduled backup completed successfully.
+[1404-04-14 12:10:59] 🕒 Scheduled backup triggered.
+[1404-04-14 12:10:59] 📁 Source: C:\Test\Source
+[1404-04-14 12:10:59] 📦 ZIP Target: C:\Test\Backup\ScheduledTest_14040414_121059.zip
+[1404-04-14 12:11:01] ✅ Scheduled backup completed successfully.
+[1404-04-14 12:25:51] ⛔ هیچ تسک زمان‌بندی‌شده‌ای پیدا نشد.
+[1404-04-14 12:32:36] ⛔ هیچ تسک زمان‌بندی‌شده‌ای پیدا نشد.
+[1404-04-14 15:20:00] 📁 Source: C:\Test\Source
+[1404-04-14 15:20:00] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040414_152000.enc.zip
+[1404-04-14 15:21:11] 📁 Source: C:\Test\Source
+[1404-04-14 15:21:11] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040414_152111.enc.zip
+[1404-04-14 15:22:08] 🕒 Scheduled backup triggered.
+[1404-04-14 15:22:08] 📁 Source: C:\Test\Source
+[1404-04-14 15:22:08] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040414_152208.enc.zip
+[1404-04-14 15:22:09] ❌ Scheduled backup failed: System.ArgumentException: The host name cannot be empty. (Parameter 'host')
+   at MailKit.Net.Smtp.SmtpClient.ValidateArguments(String host, Int32 port)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass16_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 165
+[1404-04-14 15:23:08] 🕒 Scheduled backup triggered.
+[1404-04-14 15:23:08] 📁 Source: C:\Test\Source
+[1404-04-14 15:23:08] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040414_152308.enc.zip
+[1404-04-14 15:23:09] ❌ Scheduled backup failed: System.ArgumentException: The host name cannot be empty. (Parameter 'host')
+   at MailKit.Net.Smtp.SmtpClient.ValidateArguments(String host, Int32 port)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass16_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 165
+[1404-04-14 15:24:08] 🕒 Scheduled backup triggered.
+[1404-04-14 15:24:08] 📁 Source: C:\Test\Source
+[1404-04-14 15:24:08] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040414_152408.enc.zip
+[1404-04-14 15:24:09] ❌ Scheduled backup failed: System.ArgumentException: The host name cannot be empty. (Parameter 'host')
+   at MailKit.Net.Smtp.SmtpClient.ValidateArguments(String host, Int32 port)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass16_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 165
+[1404-04-14 15:25:08] 🕒 Scheduled backup triggered.
+[1404-04-14 15:25:08] 📁 Source: C:\Test\Source
+[1404-04-14 15:25:08] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040414_152508.enc.zip
+[1404-04-14 15:25:09] ❌ Scheduled backup failed: System.ArgumentException: The host name cannot be empty. (Parameter 'host')
+   at MailKit.Net.Smtp.SmtpClient.ValidateArguments(String host, Int32 port)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass16_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 165
+[1404-04-14 15:26:08] 🕒 Scheduled backup triggered.
+[1404-04-14 15:26:08] 📁 Source: C:\Test\Source
+[1404-04-14 15:26:08] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040414_152608.enc.zip
+[1404-04-14 15:26:09] ❌ Scheduled backup failed: System.ArgumentException: The host name cannot be empty. (Parameter 'host')
+   at MailKit.Net.Smtp.SmtpClient.ValidateArguments(String host, Int32 port)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass16_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 165
+[1404-04-14 15:27:08] 🕒 Scheduled backup triggered.
+[1404-04-14 15:27:08] 📁 Source: C:\Test\Source
+[1404-04-14 15:27:08] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040414_152708.enc.zip
+[1404-04-14 15:27:09] ❌ Scheduled backup failed: System.ArgumentException: The host name cannot be empty. (Parameter 'host')
+   at MailKit.Net.Smtp.SmtpClient.ValidateArguments(String host, Int32 port)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass16_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 165
+[1404-04-14 15:28:08] 🕒 Scheduled backup triggered.
+[1404-04-14 15:28:08] 📁 Source: C:\Test\Source
+[1404-04-14 15:28:08] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040414_152808.enc.zip
+[1404-04-14 15:28:09] ❌ Scheduled backup failed: System.ArgumentException: The host name cannot be empty. (Parameter 'host')
+   at MailKit.Net.Smtp.SmtpClient.ValidateArguments(String host, Int32 port)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass16_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 165
+[1404-04-14 15:31:41] 📁 Source: C:\Test\Source
+[1404-04-14 15:31:41] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_153141.enc.zip
+[1404-04-14 15:32:12] 🕒 Scheduled backup triggered.
+[1404-04-14 15:32:12] 📁 Source: C:\Test\Source
+[1404-04-14 15:32:12] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_153212.enc.zip
+[1404-04-14 15:32:15] ✅ Scheduled backup completed successfully.
+[1404-04-14 15:33:12] 🕒 Scheduled backup triggered.
+[1404-04-14 15:33:12] 📁 Source: C:\Test\Source
+[1404-04-14 15:33:12] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_153312.enc.zip
+[1404-04-14 15:33:15] ✅ Scheduled backup completed successfully.
+[1404-04-14 15:34:12] 🕒 Scheduled backup triggered.
+[1404-04-14 15:34:12] 📁 Source: C:\Test\Source
+[1404-04-14 15:34:12] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_153412.enc.zip
+[1404-04-14 15:34:15] ✅ Scheduled backup completed successfully.
+[1404-04-14 15:35:12] 🕒 Scheduled backup triggered.
+[1404-04-14 15:35:12] 📁 Source: C:\Test\Source
+[1404-04-14 15:35:12] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_153512.enc.zip
+[1404-04-14 15:35:15] ✅ Scheduled backup completed successfully.
+[1404-04-14 15:36:45] 📁 Source: C:\Test\Source
+[1404-04-14 15:36:45] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_153645.zip
+[1404-04-14 15:37:18] 📁 Source: C:\Test\Source
+[1404-04-14 15:37:18] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_153718.zip
+[1404-04-14 15:37:19] 🕒 Scheduled backup triggered.
+[1404-04-14 15:37:19] 📁 Source: C:\Test\Source
+[1404-04-14 15:37:19] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_153719.zip
+[1404-04-14 15:37:40] 📁 Source: C:\Test\Source
+[1404-04-14 15:37:40] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_153740.zip
+[1404-04-14 15:37:41] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass16_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 165
+[1404-04-14 15:37:44] 📁 Source: C:\Test\Source
+[1404-04-14 15:37:44] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_153744.zip
+[1404-04-14 15:38:19] 🕒 Scheduled backup triggered.
+[1404-04-14 15:38:19] 📁 Source: C:\Test\Source
+[1404-04-14 15:38:19] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_153819.zip
+[1404-04-14 15:38:41] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass16_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 165
+[1404-04-14 15:46:37] 📁 Source: C:\Test\Source
+[1404-04-14 15:46:37] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_154637.zip
+[1404-04-14 15:47:46] 📁 Source: C:\Test\Source
+[1404-04-14 15:47:46] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_154746.zip
+[1404-04-14 15:47:48] 📁 Source: C:\Test\Source
+[1404-04-14 15:47:48] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_154748.zip
+[1404-04-14 15:48:18] 📁 Source: C:\Test\Source
+[1404-04-14 15:48:18] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_154818.zip
+[1404-04-14 15:48:34] 🕒 Scheduled backup triggered.
+[1404-04-14 15:48:34] 📁 Source: C:\Test\Source
+[1404-04-14 15:48:34] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_154834.zip
+[1404-04-14 15:48:57] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass16_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 165
+[1404-04-14 15:49:15] 📁 Source: C:\Test\Source
+[1404-04-14 15:49:15] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_154915.zip
+[1404-04-14 15:49:34] 🕒 Scheduled backup triggered.
+[1404-04-14 15:49:34] 📁 Source: C:\Test\Source
+[1404-04-14 15:49:34] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_154934.zip
+[1404-04-14 15:49:57] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass16_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 165
+[1404-04-14 15:51:04] 🕒 Scheduled backup triggered.
+[1404-04-14 15:51:04] 📁 Source: C:\Test\Source
+[1404-04-14 15:51:04] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_155104.zip
+[1404-04-14 15:51:27] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass16_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 165
+[1404-04-14 15:51:43] 📁 Source: C:\Test\Source
+[1404-04-14 15:51:43] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_155143.enc.zip
+[1404-04-14 15:52:18] 📁 Source: C:\Test\Source
+[1404-04-14 15:52:18] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_155218.enc.zip
+[1404-04-14 15:56:08] 📁 Source: C:\Test\Source
+[1404-04-14 15:56:08] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_155608.enc.zip
+[1404-04-14 15:56:40] 🕒 Scheduled backup triggered.
+[1404-04-14 15:56:40] 📁 Source: C:\Test\Source
+[1404-04-14 15:56:40] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_155640.enc.zip
+[1404-04-14 15:56:43] ✅ Scheduled backup completed successfully.
+[1404-04-14 15:57:40] 🕒 Scheduled backup triggered.
+[1404-04-14 15:57:40] 📁 Source: C:\Test\Source
+[1404-04-14 15:57:40] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_155740.enc.zip
+[1404-04-14 15:57:43] ✅ Scheduled backup completed successfully.
+[1404-04-14 15:58:24] 📁 Source: C:\Test\Source
+[1404-04-14 15:58:24] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_155824.zip
+[1404-04-14 15:59:11] 📁 Source: C:\Test\Source
+[1404-04-14 15:59:11] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_155911.zip
+[1404-04-14 15:59:15] 🕒 Scheduled backup triggered.
+[1404-04-14 15:59:15] 📁 Source: C:\Test\Source
+[1404-04-14 15:59:15] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_155915.zip
+[1404-04-14 15:59:37] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass16_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 165
+[1404-04-14 16:21:49] 🕒 Scheduled backup triggered.
+[1404-04-14 16:21:49] 📁 Source: C:\Test\Source
+[1404-04-14 16:21:49] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_162149.zip
+[1404-04-14 16:22:12] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 167
+[1404-04-14 16:22:49] 🕒 Scheduled backup triggered.
+[1404-04-14 16:22:49] 📁 Source: C:\Test\Source
+[1404-04-14 16:22:49] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_162249.zip
+[1404-04-14 16:23:11] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 167
+[1404-04-14 16:28:29] 📁 Source: D:\source
+[1404-04-14 16:28:29] 📦 ZIP Target: D:\backup\UserBackup_14040414_162829.enc.zip
+[1404-04-14 16:28:59] 📁 Source: D:\source
+[1404-04-14 16:28:59] 📦 ZIP Target: D:\backup\UserBackup_14040414_162859.enc.zip
+[1404-04-14 16:29:26] 🕒 Scheduled backup triggered.
+[1404-04-14 16:29:26] 📁 Source: D:\source
+[1404-04-14 16:29:26] 📦 ZIP Target: D:\backup\UserBackup_14040414_162926.enc.zip
+[1404-04-14 16:29:27] 📁 Source: D:\source
+[1404-04-14 16:29:27] 📦 ZIP Target: D:\backup\UserBackup_14040414_162927.enc.zip
+[1404-04-14 16:29:28] 📁 Source: D:\source
+[1404-04-14 16:29:28] 📦 ZIP Target: D:\backup\UserBackup_14040414_162928.enc.zip
+[1404-04-14 16:29:49] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 167
+[1404-04-14 16:52:11] 📁 Source: C:\Test\Source
+[1404-04-14 16:52:11] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_165211.enc.zip
+[1404-04-14 16:52:36] 📁 Source: C:\Test\Source
+[1404-04-14 16:52:36] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_165236.enc.zip
+[1404-04-14 16:52:39] 📁 Source: C:\Test\Source
+[1404-04-14 16:52:39] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_165239.enc.zip
+[1404-04-14 16:52:43] 📁 Source: C:\Test\Source
+[1404-04-14 16:52:43] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_165243.enc.zip
+[1404-04-14 16:52:46] 🕒 Scheduled backup triggered.
+[1404-04-14 16:52:46] 📁 Source: C:\Test\Source
+[1404-04-14 16:52:46] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_165246.enc.zip
+[1404-04-14 16:53:09] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-14 16:54:31] 🕒 Scheduled backup triggered.
+[1404-04-14 16:54:31] 📁 Source: C:\Test\Source
+[1404-04-14 16:54:31] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_165431.enc.zip
+[1404-04-14 16:54:54] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-14 16:55:31] 🕒 Scheduled backup triggered.
+[1404-04-14 16:55:31] 📁 Source: C:\Test\Source
+[1404-04-14 16:55:31] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_165531.enc.zip
+[1404-04-14 16:55:54] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-14 16:56:31] 🕒 Scheduled backup triggered.
+[1404-04-14 16:56:31] 📁 Source: C:\Test\Source
+[1404-04-14 16:56:31] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_165631.enc.zip
+[1404-04-14 16:56:54] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-14 16:57:31] 🕒 Scheduled backup triggered.
+[1404-04-14 16:57:31] 📁 Source: C:\Test\Source
+[1404-04-14 16:57:31] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_165731.enc.zip
+[1404-04-14 16:57:54] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-14 17:09:59] 📁 Source: C:\Test\Source
+[1404-04-14 17:09:59] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_170959.enc.zip
+[1404-04-14 17:10:01] 🕒 Scheduled backup triggered.
+[1404-04-14 17:10:01] 📁 Source: C:\Test\Source
+[1404-04-14 17:10:01] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_171001.enc.zip
+[1404-04-14 17:10:23] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-14 17:10:25] 📁 Source: C:\Test\Source
+[1404-04-14 17:10:25] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_171025.enc.zip
+[1404-04-14 17:12:01] 📁 Source: C:\Test\Source
+[1404-04-14 17:12:01] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_171201.enc.zip
+[1404-04-14 17:12:15] 🕒 Scheduled backup triggered.
+[1404-04-14 17:12:15] 📁 Source: C:\Test\Source
+[1404-04-14 17:12:15] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_171215.enc.zip
+[1404-04-14 17:12:17] ✅ Scheduled backup completed successfully.
+[1404-04-14 17:13:15] 🕒 Scheduled backup triggered.
+[1404-04-14 17:13:15] 📁 Source: C:\Test\Source
+[1404-04-14 17:13:15] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_171315.enc.zip
+[1404-04-14 17:13:18] ✅ Scheduled backup completed successfully.
+[1404-04-14 17:13:52] 📁 Source: C:\Test\Source
+[1404-04-14 17:13:52] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_171352.zip
+[1404-04-14 17:14:49] 🕒 Scheduled backup triggered.
+[1404-04-14 17:14:49] 📁 Source: C:\Test\Source
+[1404-04-14 17:14:49] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_171449.zip
+[1404-04-14 17:14:52] ✅ Scheduled backup completed successfully.
+[1404-04-14 17:19:03] 🕒 Scheduled backup triggered.
+[1404-04-14 17:19:03] 📁 Source: C:\Test\Source
+[1404-04-14 17:19:03] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_171903.zip
+[1404-04-14 17:19:06] ✅ Scheduled backup completed successfully.
+[1404-04-14 17:20:35] 📁 Source: C:\Test\Source
+[1404-04-14 17:20:35] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_172035.zip
+[1404-04-14 17:21:37] 📁 Source: C:\Test\Source
+[1404-04-14 17:21:37] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_172137.zip
+[1404-04-14 17:22:33] 🕒 Scheduled backup triggered.
+[1404-04-14 17:22:33] 📁 Source: C:\Test\Source
+[1404-04-14 17:22:33] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_172233.zip
+[1404-04-14 17:22:36] ❌ Scheduled backup failed: MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-60fca9bc54asm2617405a12.33 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-60fca9bc54asm2617405a12.33 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 36
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-14 17:24:34] 🕒 Scheduled backup triggered.
+[1404-04-14 17:24:34] 📁 Source: C:\Test\Source
+[1404-04-14 17:24:34] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_172434.zip
+[1404-04-14 17:24:37] ✅ Scheduled backup completed successfully.
+[1404-04-14 18:24:01] 🕒 Scheduled backup triggered.
+[1404-04-14 18:24:01] 📁 Source: C:\Test\Source
+[1404-04-14 18:24:01] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_182401.zip
+[1404-04-14 18:24:05] ✅ Scheduled backup completed successfully.
+[1404-04-14 18:25:01] 🕒 Scheduled backup triggered.
+[1404-04-14 18:25:01] 📁 Source: C:\Test\Source
+[1404-04-14 18:25:01] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_182501.zip
+[1404-04-14 18:25:03] ✅ Scheduled backup completed successfully.
+[1404-04-14 18:26:01] 🕒 Scheduled backup triggered.
+[1404-04-14 18:26:01] 📁 Source: C:\Test\Source
+[1404-04-14 18:26:01] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_182601.zip
+[1404-04-14 18:26:03] ✅ Scheduled backup completed successfully.
+[1404-04-14 18:27:01] 🕒 Scheduled backup triggered.
+[1404-04-14 18:27:01] 📁 Source: C:\Test\Source
+[1404-04-14 18:27:01] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_182701.zip
+[1404-04-14 18:27:03] ✅ Scheduled backup completed successfully.
+[1404-04-14 18:28:01] 🕒 Scheduled backup triggered.
+[1404-04-14 18:28:01] 📁 Source: C:\Test\Source
+[1404-04-14 18:28:01] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_182801.zip
+[1404-04-14 18:28:03] ✅ Scheduled backup completed successfully.
+[1404-04-14 18:33:49] 📁 Source: C:\Test\Source
+[1404-04-14 18:33:49] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_183349.zip
+[1404-04-14 18:34:21] 🕒 Scheduled backup triggered.
+[1404-04-14 18:34:21] 📁 Source: C:\Test\Source
+[1404-04-14 18:34:21] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_183421.zip
+[1404-04-14 18:34:24] ✅ Scheduled backup completed successfully.
+[1404-04-14 18:35:21] 🕒 Scheduled backup triggered.
+[1404-04-14 18:35:21] 📁 Source: C:\Test\Source
+[1404-04-14 18:35:21] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_183521.zip
+[1404-04-14 18:35:24] ✅ Scheduled backup completed successfully.
+[1404-04-14 18:36:21] 🕒 Scheduled backup triggered.
+[1404-04-14 18:36:21] 📁 Source: C:\Test\Source
+[1404-04-14 18:36:21] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_183621.zip
+[1404-04-14 18:36:24] ✅ Scheduled backup completed successfully.
+[1404-04-14 18:37:21] 🕒 Scheduled backup triggered.
+[1404-04-14 18:37:21] 📁 Source: C:\Test\Source
+[1404-04-14 18:37:21] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_183721.zip
+[1404-04-14 18:37:24] ✅ Scheduled backup completed successfully.
+[1404-04-14 23:34:00] 📁 Source: C:\Test\Source
+[1404-04-14 23:34:00] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_233400.zip
+[1404-04-14 23:34:14] 📁 Source: C:\Test\Source
+[1404-04-14 23:34:14] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_233414.zip
+[1404-04-14 23:34:43] 📁 Source: C:\Test\Source
+[1404-04-14 23:34:43] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_233443.zip
+[1404-04-14 23:42:02] 📁 Source: C:\Test\Source
+[1404-04-14 23:42:02] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_234202.enc.zip
+[1404-04-14 23:43:00] 📁 Source: C:\Test\Source
+[1404-04-14 23:43:00] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_234300.enc.zip
+[1404-04-14 23:43:53] 📁 Source: C:\Test\Source
+[1404-04-14 23:43:53] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_234353.enc.zip
+[1404-04-14 23:55:15] 📁 Source: C:\Test\Source
+[1404-04-14 23:55:15] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_235515.enc.zip
+[1404-04-14 23:56:10] 🕒 Scheduled backup triggered.
+[1404-04-14 23:56:10] 📁 Source: C:\Test\Source
+[1404-04-14 23:56:10] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_235610.enc.zip
+[1404-04-14 23:56:13] ❌ Scheduled backup failed: MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3b471b966c0sm5898569f8f.52 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3b471b966c0sm5898569f8f.52 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 36
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-14 23:56:30] 📁 Source: C:\Test\Source
+[1404-04-14 23:56:30] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_235630.zip
+[1404-04-14 23:58:40] 📁 Source: C:\Test\Source
+[1404-04-14 23:58:40] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_235840.zip
+[1404-04-14 23:58:43] 📁 Source: C:\Test\Source
+[1404-04-14 23:58:43] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040414_235843.zip
+[1404-04-15 00:00:55] 📁 Source: C:\Test\Source
+[1404-04-15 00:00:55] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_000055.zip
+[1404-04-15 00:01:23] 📁 Source: C:\Test\Source
+[1404-04-15 00:01:23] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_000123.zip
+[1404-04-15 00:02:13] 🕒 Scheduled backup triggered.
+[1404-04-15 00:02:13] 📁 Source: C:\Test\Source
+[1404-04-15 00:02:13] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_000213.zip
+[1404-04-15 00:02:15] ✅ Scheduled backup completed successfully.
+[1404-04-15 00:03:12] 📁 Source: C:\Test\Source
+[1404-04-15 00:03:12] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_000312.enc.zip
+[1404-04-15 00:04:08] 🕒 Scheduled backup triggered.
+[1404-04-15 00:04:08] 📁 Source: C:\Test\Source
+[1404-04-15 00:04:08] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_000408.enc.zip
+[1404-04-15 00:04:11] ✅ Scheduled backup completed successfully.
+[1404-04-15 00:05:08] 🕒 Scheduled backup triggered.
+[1404-04-15 00:05:08] 📁 Source: C:\Test\Source
+[1404-04-15 00:05:08] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_000508.enc.zip
+[1404-04-15 00:05:10] ✅ Scheduled backup completed successfully.
+[1404-04-15 00:06:48] 📁 Source: C:\Test\Source
+[1404-04-15 00:06:48] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_000648.enc.zip
+[1404-04-15 00:33:23] 📁 Source: C:\Test\Source
+[1404-04-15 00:33:23] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_003323.enc.zip
+[1404-04-15 00:34:21] 🕒 Scheduled backup triggered.
+[1404-04-15 00:34:21] 📁 Source: C:\Test\Source
+[1404-04-15 00:34:21] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_003421.enc.zip
+[1404-04-15 00:34:23] ❌ Scheduled backup failed: MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-ae3f6b71784sm397551466b.164 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-ae3f6b71784sm397551466b.164 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 36
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-15 00:35:21] 🕒 Scheduled backup triggered.
+[1404-04-15 00:35:21] 📁 Source: C:\Test\Source
+[1404-04-15 00:35:21] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_003521.enc.zip
+[1404-04-15 00:46:04] 📁 Source: C:\Test\Source
+[1404-04-15 00:46:04] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_004604.zip
+[1404-04-15 00:46:55] 📁 Source: C:\Test\Source
+[1404-04-15 00:46:55] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_004655.zip
+[1404-04-15 00:47:01] 🕒 Scheduled backup triggered.
+[1404-04-15 00:47:01] 📁 Source: C:\Test\Source
+[1404-04-15 00:47:01] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_004701.zip
+[1404-04-15 00:47:23] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-15 00:48:01] 🕒 Scheduled backup triggered.
+[1404-04-15 00:48:01] 📁 Source: C:\Test\Source
+[1404-04-15 00:48:01] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_004801.zip
+[1404-04-15 00:48:23] ❌ Scheduled backup failed: System.Net.Sockets.SocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Threading.Tasks.ValueTask.ValueTaskSourceAsTask.<>c.<.cctor>b__4_0(Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToAsyncResult.End(IAsyncResult asyncResult)
+   at MailKit.Net.SocketUtils.SocketConnectState.OnEndConnect(IAsyncResult ar)
+--- End of stack trace from previous location ---
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, CancellationToken cancellationToken)
+   at MailKit.Net.SocketUtils.ConnectAsync(String host, Int32 port, IPEndPoint localEndPoint, Int32 timeout, CancellationToken cancellationToken)
+   at MailKit.MailService.ConnectNetworkAsync(String host, Int32 port, CancellationToken cancellationToken)
+   at MailKit.Net.Smtp.SmtpClient.ConnectAsync(String host, Int32 port, SecureSocketOptions options, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 35
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-15 00:49:14] 📁 Source: C:\Test\Source
+[1404-04-15 00:49:14] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_004914.enc.zip
+[1404-04-15 06:17:25] 🕒 Scheduled backup triggered.
+[1404-04-15 06:17:25] 📁 Source: C:\Test\Source
+[1404-04-15 06:17:25] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_061725.enc.zip
+[1404-04-15 06:17:29] ❌ Scheduled backup failed: MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-454b161e8fcsm71154665e9.7 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-454b161e8fcsm71154665e9.7 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 36
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-15 06:18:25] 🕒 Scheduled backup triggered.
+[1404-04-15 06:18:25] 📁 Source: C:\Test\Source
+[1404-04-15 06:18:25] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_061825.enc.zip
+[1404-04-15 06:18:27] ❌ Scheduled backup failed: MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-454a9be0bacsm97106915e9.32 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials 5b1f17b1804b1-454a9be0bacsm97106915e9.32 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 36
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-15 06:19:25] 🕒 Scheduled backup triggered.
+[1404-04-15 06:19:25] 📁 Source: C:\Test\Source
+[1404-04-15 06:19:25] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_061925.enc.zip
+[1404-04-15 06:19:28] ❌ Scheduled backup failed: MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3b47225b23csm6360406f8f.84 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3b47225b23csm6360406f8f.84 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 36
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-15 06:20:25] 🕒 Scheduled backup triggered.
+[1404-04-15 06:20:25] 📁 Source: C:\Test\Source
+[1404-04-15 06:20:25] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_062025.enc.zip
+[1404-04-15 06:20:27] ❌ Scheduled backup failed: MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3b4722597f0sm6494014f8f.68 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3b4722597f0sm6494014f8f.68 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 36
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-15 06:40:02] 🕒 Scheduled backup triggered.
+[1404-04-15 06:40:02] 📁 Source: C:\Test\Source
+[1404-04-15 06:40:02] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_064002.enc.zip
+[1404-04-15 06:40:05] ❌ Scheduled backup failed: MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-ae3f66e7d4asm433007466b.23 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-ae3f66e7d4asm433007466b.23 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 36
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-15 06:41:02] 🕒 Scheduled backup triggered.
+[1404-04-15 06:41:02] 📁 Source: C:\Test\Source
+[1404-04-15 06:41:02] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_064102.enc.zip
+[1404-04-15 06:41:04] ❌ Scheduled backup failed: MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-60fcb0ffdb7sm3277774a12.53 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials 4fb4d7f45d1cf-60fcb0ffdb7sm3277774a12.53 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 36
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-15 07:10:58] 📁 Source: C:\Test\Source
+[1404-04-15 07:10:58] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_071058.enc.zip
+[1404-04-15 07:12:47] 🕒 Scheduled backup triggered.
+[1404-04-15 07:12:47] 📁 Source: C:\Test\Source
+[1404-04-15 07:12:47] 📦 ZIP Target: C:\Test\Backup\Scheduled_14040415_071247.zip
+[1404-04-15 07:12:50] ❌ Scheduled backup failed: MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3b471b968ebsm6406989f8f.47 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials ffacd0b85a97d-3b471b968ebsm6406989f8f.47 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 36
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<StartScheduledBackup>b__17_0(Object s, EventArgs e) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 216
+[1404-04-15 07:14:23] 📁 Source: C:\Test\Source
+[1404-04-15 07:14:23] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_071423.enc.zip
+[1404-04-15 07:26:51] 📁 Source: C:\Test\Source
+[1404-04-15 07:26:51] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_072651.enc.zip
+[1404-04-15 07:26:59] 📁 Source: C:\Test\Source
+[1404-04-15 07:26:59] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_072659.enc.zip
+[1404-04-15 07:31:46] 🕒 Scheduled backup triggered.
+[1404-04-15 07:31:46] 📁 Source: C:\Test\Source
+[1404-04-15 07:31:46] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_073146.zip
+[1404-04-15 07:31:49] ❌ Scheduled backup failed: MailKit.Security.AuthenticationException: 535: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-ae3f6abfd8bsm441545666b.81 - gsmtp
+ ---> MailKit.Net.Smtp.SmtpCommandException: 5.7.8 Username and Password not accepted. For more information, go to
+5.7.8  https://support.google.com/mail/?p=BadCredentials a640c23a62f3a-ae3f6abfd8bsm441545666b.81 - gsmtp
+   --- End of inner exception stack trace ---
+   at MailKit.Net.Smtp.SmtpClient.AuthenticateAsync(Encoding encoding, ICredentials credentials, CancellationToken cancellationToken)
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendEmailAsync(String subject, String body) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 36
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.EmailService.SendReportAsync(EmailReport report) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\EmailService.cs:line 55
+   at SmarterBackUp.infrastruture.SmarterBackup.Services.BackupManager.RunBackupAsync(BackupTask task) in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackUp.infrastruture\SmarterBackup.Services\BackupManager.cs:line 71
+   at SmarterBackup.UI.Form1.<>c__DisplayClass17_0.<<StartScheduledBackup>b__0>d.MoveNext() in D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\Form1.cs:line 168
+[1404-04-15 07:32:38] 📁 Source: C:\Test\Source
+[1404-04-15 07:32:38] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_073238.zip
+[1404-04-15 07:33:32] 🕒 Scheduled backup triggered.
+[1404-04-15 07:33:32] 📁 Source: C:\Test\Source
+[1404-04-15 07:33:32] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_073332.zip
+[1404-04-15 07:33:34] ✅ Scheduled backup completed successfully.
+[1404-04-15 07:35:21] 📁 Source: C:\Test\Source
+[1404-04-15 07:35:21] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_073521.enc.zip
+[1404-04-15 07:35:41] 🕒 Scheduled backup triggered.
+[1404-04-15 07:35:41] 📁 Source: C:\Test\Source
+[1404-04-15 07:35:41] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_073541.enc.zip
+[1404-04-15 07:35:44] ✅ Scheduled backup completed successfully.
+[1404-04-15 16:10:10] 🕒 Scheduled backup triggered.
+[1404-04-15 16:10:10] 📁 Source: C:\Test\Source
+[1404-04-15 16:10:10] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_161010.enc.zip
+[1404-04-15 16:10:16] ✅ Scheduled backup completed successfully.
+[1404-04-15 16:11:10] 🕒 Scheduled backup triggered.
+[1404-04-15 16:11:10] 📁 Source: C:\Test\Source
+[1404-04-15 16:11:10] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_161110.enc.zip
+[1404-04-15 16:11:13] ✅ Scheduled backup completed successfully.
+[1404-04-15 16:12:10] 🕒 Scheduled backup triggered.
+[1404-04-15 16:12:10] 📁 Source: C:\Test\Source
+[1404-04-15 16:12:10] 📦 ZIP Target: C:\Test\Backup\UserBackup_14040415_161210.enc.zip
+[1404-04-15 16:12:13] ✅ Scheduled backup completed successfully.
+[1404-04-15 16:19:20] 📁 Source: C:\Test\Source
+[1404-04-15 16:19:20] 📦 ZIP Target: D:\backup\UserBackup_14040415_161920.enc.zip
+[1404-04-15 16:19:25] 🕒 Scheduled backup triggered.
+[1404-04-15 16:19:25] 📁 Source: C:\Test\Source
+[1404-04-15 16:19:25] 📦 ZIP Target: D:\backup\UserBackup_14040415_161925.enc.zip
+[1404-04-15 16:19:29] ✅ Scheduled backup completed successfully.
+[1404-04-15 16:24:17] 📁 Source: C:\Test\Source
+[1404-04-15 16:24:17] 📦 ZIP Target: D:\backup\UserBackup_14040415_162417.enc.zip
+[1404-04-17 20:12:35] 📁 Source: C:\Test\Source
+[1404-04-17 20:12:35] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040417_201235.enc.zip
+[1404-04-17 20:14:25] 📁 Source: C:\Test\Source
+[1404-04-17 20:14:25] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040417_201425.enc.zip
+[1404-04-17 20:15:21] 📁 Source: C:\Test\Source
+[1404-04-17 20:15:21] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040417_201521.zip
+[1404-04-17 20:17:03] 📁 Source: C:\Test\Source
+[1404-04-17 20:17:03] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040417_201703.zip
+[1404-04-17 20:18:00] 🕒 Scheduled backup triggered.
+[1404-04-17 20:18:00] 📁 Source: C:\Test\Source
+[1404-04-17 20:18:00] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040417_201800.zip
+[1404-04-17 20:18:03] ✅ Scheduled backup completed successfully.
+[1404-04-17 20:19:00] 🕒 Scheduled backup triggered.
+[1404-04-17 20:19:00] 📁 Source: C:\Test\Source
+[1404-04-17 20:19:00] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040417_201900.zip
+[1404-04-17 20:19:03] ✅ Scheduled backup completed successfully.
+[1404-04-17 20:20:00] 🕒 Scheduled backup triggered.
+[1404-04-17 20:20:00] 📁 Source: C:\Test\Source
+[1404-04-17 20:20:00] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040417_202000.zip
+[1404-04-17 20:20:03] ✅ Scheduled backup completed successfully.
+[1404-04-17 20:21:00] 🕒 Scheduled backup triggered.
+[1404-04-17 20:21:00] 📁 Source: C:\Test\Source
+[1404-04-17 20:21:00] 📦 ZIP Target: C:\Test\Backup\Restored\UserBackup_14040417_202100.zip
+[1404-04-17 20:21:03] ✅ Scheduled backup completed successfully.

@@ -1,0 +1,15 @@
+{
+  "SourcePath": "C:\\Test\\Source",
+  "DestinationPath": "C:\\Test\\Backup",
+  "UseEncryption": false,
+  "EncryptionPassword": "",
+  "IntervalMinutes": 1.0,
+  "EmailSettings": {
+    "SmtpServer": "smtp.gmail.com",
+    "Port": 587,
+    "SenderEmail": "hasanzadehelham87@gmail.com",
+    "SenderPassword": "kquk rtrs ugma couy",
+    "ReceiverEmail": "Ehassanzadeh.com@gmail.com",
+    "EnableSsl": true
+  }
+}

@@ -1,5 +1,4 @@
-﻿
-using System.Windows.Forms;
+﻿using System.Windows.Forms;
 
 namespace SmarterBackup.UI
 {
@@ -55,7 +54,7 @@ namespace SmarterBackup.UI
             btnLoadLogs = new Button();
 
             // تب 4 - تنظیمات ایمیل
-           
+
             txtSenderEmail = new TextBox();
             txtReceiverEmail = new TextBox();
             txtSmtpServer = new TextBox();
@@ -63,7 +62,7 @@ namespace SmarterBackup.UI
             numSmtpPort.Minimum = 1;
             numSmtpPort.Maximum = 65535;
             numSmtpPort.Value = 587;
-            
+
             chkEnableSsl = new CheckBox();
             txtSenderPassword = new TextBox();
             btnSaveEmailSettings = new Button();
