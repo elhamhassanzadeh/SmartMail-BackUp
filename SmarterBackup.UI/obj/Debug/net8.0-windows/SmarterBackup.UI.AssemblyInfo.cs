@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmarterBackup.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa414e311a2ed8590d574f250c754253c6f8d3b4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8717617ed83b5967e64233763345f4717332024d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmarterBackup.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmarterBackup.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

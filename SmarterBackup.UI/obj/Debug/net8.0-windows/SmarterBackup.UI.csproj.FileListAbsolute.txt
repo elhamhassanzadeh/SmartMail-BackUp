@@ -28,7 +28,6 @@ D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\obj\Debug\net8.0-wi
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\obj\Debug\net8.0-windows\SmarterBackup.UI.pdb
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\obj\Debug\net8.0-windows\SmarterBackup.UI.genruntimeconfig.cache
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\obj\Debug\net8.0-windows\ref\SmarterBackup.UI.dll
-D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\bin\Debug\net8.0-windows\appsettings.json
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
@@ -42,3 +41,8 @@ D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\bin\Debug\net8.0-wi
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\bin\Debug\net8.0-windows\System.Text.Json.dll
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\bin\Debug\net8.0-windows\userconfig.json
+D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\obj\Debug\net8.0-windows\SmarterBackup.UI.LoginForm.resources
+D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\obj\Debug\net8.0-windows\SmarterBackup.UI.RegisterForm.resources
+D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\bin\Debug\net8.0-windows\Guna.UI2.dll
+D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\bin\Debug\net8.0-windows\System.Management.dll
+D:\c#-Training\AdvancedCsharp\SmarterBackup\SmarterBackup.UI\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
