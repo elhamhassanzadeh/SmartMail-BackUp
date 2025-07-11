@@ -1,75 +1,67 @@
-﻿namespace SmarterBackup.UI
+﻿using Guna.UI2.WinForms;
+
+namespace SmarterBackup.UI
 {
     partial class LoginForm
     {
-        private Label lblUsername;
-        private Label lblPassword;
-        private TextBox txtUsername;
-        private TextBox txtPassword;
-        private Button btnLogin;
+        private Guna2TextBox txtUsername;
+        private Guna2TextBox txtPassword;
+        private Guna2Button btnLogin;
+        private Guna2HtmlLabel lblTitle;
 
         private void InitializeComponent()
         {
-            lblUsername = new Label();
-            lblPassword = new Label();
-            txtUsername = new TextBox();
-            txtPassword = new TextBox();
-            btnLogin = new Button();
-            SuspendLayout();
+            this.txtUsername = new Guna2TextBox();
+            this.txtPassword = new Guna2TextBox();
+            this.btnLogin = new Guna2Button();
+            this.lblTitle = new Guna2HtmlLabel();
+
             // 
-            // lblUsername
+            // lblTitle
             // 
-            lblUsername.Location = new Point(30, 30);
-            lblUsername.Name = "lblUsername";
-            lblUsername.Size = new Size(100, 23);
-            lblUsername.TabIndex = 0;
-            lblUsername.Text = "نام کاربری:";
-            // 
-            // lblPassword
-            // 
-            lblPassword.Location = new Point(30, 70);
-            lblPassword.Name = "lblPassword";
-            lblPassword.Size = new Size(100, 23);
-            lblPassword.TabIndex = 2;
-            lblPassword.Text = "رمز عبور:";
+            this.lblTitle.Text = " سیستم به ورود";
+            this.lblTitle.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
+            this.lblTitle.ForeColor = Color.DodgerBlue;
+            this.lblTitle.Location = new Point(120, 20);
+
             // 
             // txtUsername
             // 
-            txtUsername.Location = new Point(136, 30);
-            txtUsername.Name = "txtUsername";
-            txtUsername.Size = new Size(150, 23);
-            txtUsername.TabIndex = 1;
+            this.txtUsername.PlaceholderText = "نام کاربری";
+            this.txtUsername.Location = new Point(70, 70);
+            this.txtUsername.Size = new Size(250, 40);
+            this.txtUsername.BorderRadius = 10;
+
             // 
             // txtPassword
             // 
-            txtPassword.Location = new Point(136, 67);
-            txtPassword.Name = "txtPassword";
-            txtPassword.PasswordChar = '●';
-            txtPassword.Size = new Size(150, 23);
-            txtPassword.TabIndex = 3;
+            this.txtPassword.PlaceholderText = "رمز عبور";
+            this.txtPassword.Location = new Point(70, 120);
+            this.txtPassword.Size = new Size(250, 40);
+            this.txtPassword.PasswordChar = '●';
+            this.txtPassword.BorderRadius = 10;
+
             // 
             // btnLogin
             // 
-            btnLogin.Location = new Point(120, 110);
-            btnLogin.Name = "btnLogin";
-            btnLogin.Size = new Size(75, 23);
-            btnLogin.TabIndex = 4;
-            btnLogin.Text = "ورود";
-            btnLogin.Click += btnLogin_Click;
+            this.btnLogin.Text = "ورود";
+            this.btnLogin.Location = new Point(120, 180);
+            this.btnLogin.Size = new Size(150, 45);
+            this.btnLogin.FillColor = Color.DodgerBlue;
+            this.btnLogin.BorderRadius = 15;
+            this.btnLogin.Click += new EventHandler(this.btnLogin_Click);
+
             // 
             // LoginForm
             // 
-            ClientSize = new Size(320, 170);
-            Controls.Add(lblUsername);
-            Controls.Add(txtUsername);
-            Controls.Add(lblPassword);
-            Controls.Add(txtPassword);
-            Controls.Add(btnLogin);
-            Name = "LoginForm";
-            StartPosition = FormStartPosition.CenterScreen;
-            Text = "ورود به برنامه";
-            ResumeLayout(false);
-            PerformLayout();
+            this.ClientSize = new Size(400, 270);
+            this.StartPosition = FormStartPosition.CenterScreen;
+            this.FormBorderStyle = FormBorderStyle.FixedSingle;
+            this.Text = "ورود";
+            this.Controls.Add(this.lblTitle);
+            this.Controls.Add(this.txtUsername);
+            this.Controls.Add(this.txtPassword);
+            this.Controls.Add(this.btnLogin);
         }
     }
 }

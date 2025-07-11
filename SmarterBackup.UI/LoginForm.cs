@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace SmarterBackup.UI
@@ -13,9 +6,10 @@ namespace SmarterBackup.UI
     public partial class LoginForm : Form
     {
         private readonly UserService _userService;
+
         public LoginForm()
         {
-             InitializeComponent();
+            InitializeComponent();
             _userService = new UserService();
         }
 
@@ -26,10 +20,9 @@ namespace SmarterBackup.UI
 
             if (_userService.Authenticate(username, password))
             {
-                this.Hide(); // فرم لاگین رو مخفی کن
-                var mainForm = new Form1();
-                mainForm.ShowDialog(); // فرم اصلی را باز کن
-                this.Close(); // بعد از بسته شدن فرم اصلی، لاگین هم بسته بشه
+                this.Hide();
+                new Form1().ShowDialog();
+                this.Close();
             }
             else
             {

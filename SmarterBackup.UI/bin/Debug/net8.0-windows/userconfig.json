@@ -1,15 +1,15 @@
 {
   "SourcePath": "D:\\backup.new",
   "DestinationPath": "D:\\backup",
-  "UseEncryption": true,
-  "EncryptionPassword": "123",
+  "UseEncryption": false,
+  "EncryptionPassword": "",
   "IntervalMinutes": 1.0,
   "EmailSettings": {
     "SmtpServer": "smtp.gmail.com",
     "Port": 587,
     "SenderEmail": "ehassanzadeh.com@gmail.com",
     "SenderPassword": "bvdp axhy rfvg lmnj",
-    "ReceiverEmail": "hasanzadehelham87@gmail.com",
+    "ReceiverEmail": "hassanzadehelham@gmail.com",
     "EnableSsl": true
   }
 }
