@@ -91,11 +91,11 @@ namespace SmarterBackup.UI
             lblTitle.BackColor = Color.Transparent;
             lblTitle.Font = new Font("Segoe UI", 14F, FontStyle.Bold);
             lblTitle.ForeColor = Color.MediumSlateBlue;
-            lblTitle.Location = new Point(173, 21);
+            lblTitle.Location = new Point(140, 23);
             lblTitle.Name = "lblTitle";
-            lblTitle.Size = new Size(32, 27);
+            lblTitle.Size = new Size(116, 27);
             lblTitle.TabIndex = 0;
-            lblTitle.Text = "ثبت";
+            lblTitle.Text = "  جدید کاربر ثبت ";
             // 
             // RegisterForm
             // 
